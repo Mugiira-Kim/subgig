@@ -1,0 +1,1 @@
+No Content: https://www.typewhizz.co.uk/wp-admin/admin-ajax.php
